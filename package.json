@@ -1,0 +1,16 @@
+{
+  "name": "simple-mario-game",
+  "version": "1.0.0",
+  "description": "A htmt-css-js game",
+  "main": "game.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js || node index.js"
+  },
+  "author": "HeitorTheWizard",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
